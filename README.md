@@ -1,0 +1,2 @@
+# Project-Why-Students-In-the-Us-Prefer-A-University
+The goal of this study is to determine which aspects are most important to students when selecting their favourite American university. The number of applications, admissions, and enrollments, the cost of tuition and fees, the cost of living on campus, the sorts of degrees provided, and the characteristics of the states where universities are situated are some of the key questions for building this project (population and GDP).
